@@ -1,0 +1,5 @@
+*/.lock
+*/.lockState
+*/bin/*
+*/ANT/*
+!*/ANT/build.xml
